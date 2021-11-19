@@ -21,3 +21,4 @@ def getAnswer (answerNumber):
         return 'Very doubtful'
 
 r = random.randint(1,9)
+fortune = getAnswer(r)
