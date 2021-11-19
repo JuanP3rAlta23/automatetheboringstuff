@@ -1,3 +1,6 @@
+
+
+
 def a():
     print('a() starts') 
     b()
@@ -13,3 +16,5 @@ def c():
 def d():
     print('d() starts')
     print('d() returns')
+
+a()
