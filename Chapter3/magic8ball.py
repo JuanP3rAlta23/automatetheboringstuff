@@ -20,3 +20,4 @@ def getAnswer (answerNumber):
     elif answerNumber == 9:
         return 'Very doubtful'
 
+r = random.randint(1,9)
