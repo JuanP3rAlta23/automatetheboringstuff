@@ -8,4 +8,6 @@ def b():
     c()
     print('b() returns')
 def c():
+    print('c() starts')
+    print('c() returns')
     
