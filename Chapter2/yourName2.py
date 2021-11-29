@@ -3,4 +3,4 @@ while True:
     name = input()
     if name == 'your name':
         break
-print
+print('Thank you!')
